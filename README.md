@@ -1,5 +1,5 @@
 # Test
 This is the first test.
-New feature.
+Original features.
   1. First feature.
   2. Second feature
